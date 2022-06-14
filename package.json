@@ -1,11 +1,10 @@
 {
-  "name": "watertight-globals",
+  "name": "@watertight/watertight-globals",
   "version": "1.0.0",
-  "description": "",
+  "description": "basic host functions for watertight desktop",
   "main": "build/index.js",
   "scripts": {
 		"build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "publish": "pnpm publish"
   },
   "author": "sean k",
